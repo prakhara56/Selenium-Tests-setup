@@ -1,3 +1,5 @@
+pageFunctions\GithubPageFunctions.class
 pageFunctions\YourPageFunctions.class
 testRunner\TestRunner.class
+stepDefinitions\GithubRepoCreationSteps.class
 stepDefinitions\StepDefinitions.class
